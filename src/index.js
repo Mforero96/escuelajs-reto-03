@@ -50,6 +50,10 @@ fetchData(API)
     }
   )
 
+
+
+  
+
 /*
 fetchData(API,  (error1, data1) => {
   if (error1) return console.error(`Error ${error1}`);
